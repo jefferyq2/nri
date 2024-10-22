@@ -11,8 +11,8 @@ require (
 	github.com/opencontainers/runtime-tools v0.9.0
 	github.com/sirupsen/logrus v1.8.1
 	github.com/stretchr/testify v1.8.0
-	golang.org/x/sys v0.13.0
-	google.golang.org/protobuf v1.31.0
+	golang.org/x/sys v0.18.0
+	google.golang.org/protobuf v1.33.0
 	k8s.io/cri-api v0.25.3
 	sigs.k8s.io/yaml v1.3.0
 )
@@ -25,8 +25,8 @@ require (
 	github.com/google/go-cmp v0.5.9 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/syndtr/gocapability v0.0.0-20200815063812-42c35b437635 // indirect
-	golang.org/x/net v0.17.0 // indirect
-	golang.org/x/text v0.13.0 // indirect
+	golang.org/x/net v0.23.0 // indirect
+	golang.org/x/text v0.14.0 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20230731190214-cbb8c96f2d6d // indirect
 	google.golang.org/grpc v1.57.1 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
